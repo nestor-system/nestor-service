@@ -1,1 +1,7 @@
+/.mvn/
 /target/
+/utilities/
+/installNESTORJars.bat
+/mvnw
+/mvnw.cmd
+/runService.bat
