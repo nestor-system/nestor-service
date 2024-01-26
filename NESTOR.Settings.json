@@ -1,0 +1,3 @@
+{
+	"CoreNLP_Annotators": "tokenize, ssplit, pos, parse, depparse, lemma, ner, regexner"	
+}
